@@ -20,7 +20,7 @@ Una aplicación móvil desarrollada con **Kotlin** y **Jetpack Compose** para ay
 
 1. Clona este repositorio:
  ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/RobertoVillalon/diccionarioPalabras.git
  ```
 
 2. Ábrelo con Android Studio.
